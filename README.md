@@ -5,10 +5,10 @@ Hi everyone this repositories contains all the mini javascript projects I made w
 
 Projects list:
 
-1.)Random Background color generator:  https://github.com/abhiraj-ku/Mini-JS-Projects/tree/main/random%20color
+1.)Random Background color generator
 
 
-2.) Accordian Menu :  https://github.com/abhiraj-ku/Mini-JS-Projects/tree/main/accordian%20faqs
+2.) Accordian Menu 
 
 
-3.) Windows 11 UI home : https://github.com/abhiraj-ku/Mini-JS-Projects/tree/main/windows%2011%20UI
+3.) Windows 11 UI home 
