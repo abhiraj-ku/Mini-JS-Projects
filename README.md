@@ -16,3 +16,7 @@ Projects list:
 4.) PopUp button
 
 5.)Seach filter website
+
+6.)random password generator 
+
+7.) toggle menu bar
