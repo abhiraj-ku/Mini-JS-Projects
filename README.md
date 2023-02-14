@@ -20,3 +20,5 @@ Projects list:
 7.) Toggle Menu Bar
 
 8.) Button Ripple Effect
+
+9.) Character Counter 
