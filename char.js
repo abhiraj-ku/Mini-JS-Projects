@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const textElement = document.getElementById("textarea");
 const totalCounter= document.getElementById("total-counter");
 const remainCounter= document.getElementById("remaining-counter");
@@ -33,3 +34,13 @@ function zeroRemaining() {
 
 
 
+=======
+const btElem = document.querySelector(".btn");
+btElem.addEventListener("mouseover", (event) => {
+    const x = event.pageX - btElem.offsetLeft;
+    const y = event.pageY - btElem.offsetTop;
+    btElem.style.setProperty("--xPos", x + "px")
+    btElem.style.setProperty("--yPos", y + "px")
+
+})
+>>>>>>> c9c2434e8f0d388fa9c4280a0933fdde1ab1a73b
