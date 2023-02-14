@@ -22,3 +22,5 @@ Projects list:
 8.) Button Ripple Effect
 
 9.) Character Counter 
+
+10.) Random Quote Generator 
