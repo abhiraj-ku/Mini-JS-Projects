@@ -7,9 +7,7 @@ Projects list:
 
 1.)Random Background color generator
 
-
 2.) Accordian Menu 
-
 
 3.) Windows 11 UI home
 
@@ -17,8 +15,8 @@ Projects list:
 
 5.)Seach filter website
 
-6.)random password generator 
+6.)Random Password Generator 
 
-7.) toggle menu bar
+7.) Toggle Menu Bar
 
-8.) button ripple effect
+8.) Button Ripple Effect
