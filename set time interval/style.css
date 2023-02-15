@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.btn{
+    padding: 0.5rem 1.3rem;
+    font-weight: bold;
+    font-size: 29px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 10px rgba(250, 140, 103, 0.901);
+    color: rgb(130, 126, 126);
+}
