@@ -24,3 +24,5 @@ Projects list:
 9.) Character Counter 
 
 10.) Random Quote Generator 
+
+11.) Javascript Tip Calculator
