@@ -15,6 +15,8 @@ Projects list:
 
 5.)Seach filter website
 
+            https://anime-chars.netlify.app/
+
 6.)Random Password Generator 
 
 7.) Toggle Menu Bar
