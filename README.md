@@ -28,3 +28,5 @@ Projects list:
 11.) Javascript Tip Calculator (https://wait-tip.netlify.app/)
 
 12.) Weight Converter
+
+13.) Random Quote Gen using API
