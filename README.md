@@ -19,6 +19,8 @@ Projects list:
 
 6.)Random Password Generator 
 
+            https://pass-gens.netlify.app/
+
 7.) Toggle Menu Bar
 
 8.) Button Ripple Effect
