@@ -38,3 +38,5 @@ Projects list:
 13.) Random Quote Gen using API
 
 14.) Focus on today Web App
+
+15.) Loader Animation using Js
