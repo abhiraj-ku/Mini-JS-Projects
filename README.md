@@ -37,6 +37,6 @@ Projects list:
 
 13.) Random Quote Gen using API
 
-14.) Focus on today Web App
+14.) Focus on today Web App ( https://focus-today12.netlify.app/)
 
 15.) Loader Animation using Js
