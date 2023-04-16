@@ -13,9 +13,7 @@ Projects list:
 
 4.) PopUp button
 
-5.)Seach filter website
-
-            https://anime-chars.netlify.app/
+5.)Seach filter website ( https://anime-chars.netlify.app/ )
 
 6.)Random Password Generator 
 
