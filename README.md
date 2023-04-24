@@ -37,4 +37,4 @@ Projects list:
 
 16.) Guess My Number Game 
 
-17.) 3 Button Modal Interface
+17.) 3 Button Modal
