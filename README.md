@@ -38,3 +38,5 @@ Projects list:
 16.) Guess My Number Game 
 
 17.) 3 Button Modal
+
+18.) Animated Tabs using css and Javascript
