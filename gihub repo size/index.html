@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="output.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Github Size Finder</title>
+    <script src="index.js" defer></script>
+  </head>
+  <body>
+    <!-- component -->
+    <section
+      id="contact"
+      class="relative w-full min-h-screen bg-black text-red-500"
+    >
+      <h1 class="text-4xl p-4 font-bold tracking-wide">Github Repo Size</h1>
+
+      <!-- wrapper -->
+      <div
+        class="relative p-5 lg:px-20 flex flex-col md:flex-row items-center justify-center"
+      >
+        <!-- Social Media -->
+        <div class="w-full md:w-1/2 p-5 md:px-0 mx-5 shadow-white">
+          <div
+            class="bg-gray-900 border border-red-500 w-full lg:w-1/2 h-full p-5 pt-8"
+          >
+            <h3 class="text-2xl font-semibold mb-5">My Social Media</h3>
+            <!-- list -->
+            <div class="flex flex-col gap-3">
+              <a
+                href="https://github.com/abhiraj-ku"
+                class="flex items-center hover:text-white hover:bg-red-500 p-2"
+                target="_blank"
+              >
+                <!---->
+                Github
+              </a>
+              <a
+                href="#"
+                class="flex items-center hover:text-white hover:bg-red-500 p-2"
+              >
+                Linkedin
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact Me -->
+        <form
+          action="#"
+          id="form"
+          class="w-full md:w-1/2 border border-red-500 p-6 bg-gray-900"
+        >
+          <h2 class="text-2xl pb-3 font-semibold">
+            Want to know the Size of your Github Repo before cloning !
+          </h2>
+          <div>
+            <div class="flex flex-col mb-3">
+              <label for="name">Owner Name</label>
+              <input
+                type="text"
+                id="name"
+                class="px-3 py-2 bg-gray-800 border border-gray-900 focus:border-red-500 focus:outline-none focus:bg-gray-800 focus:text-red-500"
+                autocomplete="off"
+                placeholder="Enter the Owner name of this repo"
+              />
+            </div>
+            <div class="flex flex-col mb-3">
+              <label for="email">Repo Name</label>
+              <input
+                type="text"
+                id="repoName"
+                class="px-3 py-2 bg-gray-800 border border-gray-900 focus:border-red-500 focus:outline-none focus:bg-gray-800 focus:text-red-500"
+                autocomplete="off"
+                placeholder="Enter The name of that Repo"
+              />
+            </div>
+            <div
+              class="flex flex-col mb-3 text-center hidden"
+              id="resultBox"
+            ></div>
+          </div>
+          <div class="w-full pt-3">
+            <button
+              id="btn"
+              type="submit"
+              class="w-full bg-gray-900 border border-red-500 px-4 py-2 transition duration-50 focus:outline-none font-semibold hover:bg-red-500 hover:text-white text-xl cursor-pointer"
+            >
+              Send
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+  </body>
+</html>
