@@ -40,3 +40,5 @@ Projects list:
 17.) 3 Button Modal
 
 18.) Animated Tabs using css and Javascript
+
+19.) guthub repo size finder
