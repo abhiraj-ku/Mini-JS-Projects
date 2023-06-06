@@ -41,4 +41,4 @@ Projects list:
 
 18.) Animated Tabs using css and Javascript
 
-19.) guthub repo size finder
+19.) Github Repo Size Finder
